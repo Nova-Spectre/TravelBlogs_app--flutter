@@ -1,4 +1,4 @@
-# blogapp
+# TravelblogApp
 
 Travel Blog App
 
