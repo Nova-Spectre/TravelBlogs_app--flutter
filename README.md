@@ -1,6 +1,21 @@
 # blogapp
 
-A new Flutter project.
+Travel Blog App
+
+Technologies Used in this project:
+✅ Firebase
+✅ Cloud Firestore Database
+✅ Firebase Storage
+
+Screenshots
+
+![image](https://user-images.githubusercontent.com/51260891/148677895-93464599-7610-44db-b808-35d552b20f8a.jpeg)
+
+Demo Video
+https://user-images.githubusercontent.com/51260891/148678071-2ea3fe9c-5bda-4df3-8de9-5075dfde4523.mp4
+
+
+
 
 ## Getting Started
 
